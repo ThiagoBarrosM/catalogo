@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cursos {
+  margin: 1%;
+  height: 148px;
+  width: 264px;
+}
+
+#botaoAnterior,
+#botaoProximo {
+  align-self: center;
+}

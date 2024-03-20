@@ -1,4 +1,4 @@
-import { front,verce,headset } from "../assets/img"
+import { front,verce,headset,placa } from "../assets/img"
 
 export const message = 'https://web.whatsapp.com/send?phone=5575991271507&text=Ol%C3%A1%20gostaria%20de%20adquirir%20alguns%20dos%20seus%20produtos'
 
@@ -16,6 +16,11 @@ export const cards = [
   {
     src : verce,
     title:'calça vivokeyd',
-    price:350
+    price:150
+  },
+  {
+    src : placa,
+    title:'placa de video',
+    price:2900
   },
 ]

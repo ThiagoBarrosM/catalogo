@@ -10,6 +10,10 @@ function App() {
       <div className='App'> 
       <Topo/>
 
+    
+      <footer>
+        <p>Copyright &copy; 2024. Todos os direitos reservados.</p>
+    </footer>
       </div>
     </>
   )
